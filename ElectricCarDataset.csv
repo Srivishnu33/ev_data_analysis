@@ -1,0 +1,103 @@
+Brand,County,City,Model,Model Year,AccelSec,TopSpeed_KmH,Range_Km,Battery_Pack Kwh,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,Electric Vehicle Type,BodyStyle,Segment,PriceUsd
+Tesla,King,Seattle,Model 3 Long Range Dual Motor,2020,4.6,233,460,70,161,940,Yes,AWD,Battery Electric Vehicle (BEV),Sedan,D,55480
+Volkswagen,King,Bothell,ID.3 Pure,2022,10,160,270,45,167,250,Yes,RWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,30000
+Polestar,Yakima,Yakima,2,2023,4.7,210,400,75,181,620,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Liftback,D,56440
+BMW,King,Kirkland,iX3,2018,6.8,180,360,74,206,560,Yes,RWD,Battery Electric Vehicle (BEV),SUV,D,68040
+Honda,Thurston,Olympia,e,2018,9.5,145,170,28.5,168,190,Yes,RWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,B,32997
+Lucid,Snohomish,Marysville,Air,2020,2.8,250,610,110,180,620,Yes,AWD,Battery Electric Vehicle (BEV),Sedan,F,105000
+Volkswagen,King,Kent,e-Golf,2017,9.6,150,190,35.8,168,220,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,31900
+Peugeot,King,Woodinville,e-208,2020,8.1,150,275,45,164,420,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,B,29682
+Tesla,Island,Coupeville,Model 3 Standard Range Plus,2018,5.6,225,310,50,153,650,Yes,RWD,Battery Electric Vehicle (BEV),Sedan,D,46380
+Audi,King,Bellevue,Q4 e-tron,2023,6.3,180,400,77,193,540,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,55000
+Mercedes,King,Kirkland,EQC 400 4MATIC,2018,5.1,180,370,80,216,440,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,69484
+Nissan,Kitsap,Port Orchard,Leaf,2016,7.9,144,220,36,164,230,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,29234
+Hyundai,Kitsap,Port Orchard,Kona Electric 64 kWh,2017,7.9,167,400,64,160,380,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,B,40795
+BMW,Snohomish,Mukilteo,i4,2019,4,200,450,80,178,650,Yes,RWD,Battery Electric Vehicle (BEV),Sedan,D,65000
+Hyundai,King,Redmond,IONIQ Electric,2019,9.7,165,250,38.3,153,210,Yes,FWD,Battery Electric Vehicle (BEV),Liftback,C,34459
+Volkswagen,Thurston,Rochester,ID.3 Pro S,2013,7.9,160,440,77,175,590,Yes,RWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,40936
+Porsche,King,Seattle,Taycan Turbo S,2019,2.8,260,375,83.7,223,780,Yes,AWD,Battery Electric Vehicle (BEV),Sedan,F,180781
+Volkswagen,King,Seattle,e-Up!,2015,11.9,130,195,36.8,166,170,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,A,21421
+MG,Kitsap,Bremerton,ZS EV,2019,8.2,140,220,42.5,193,260,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,B,30000
+Mini,Kitsap,Poulsbo,Cooper SE,2014,7.3,150,185,28.9,156,260,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,B,31681
+Opel,King,Kent,Corsa-e,2018,8.1,150,275,45,164,420,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,B,29146
+Tesla,Snohomish,Marysville,Model Y Long Range Dual Motor,2018,5.1,217,425,72.5,171,930,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,58620
+Skoda,Kitsap,Bremerton,Enyaq iV 50,2013,10,160,290,52,179,230,Yes,RWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,C,35000
+Audi,King,Seattle,e-tron GT,2014,3.5,240,425,85,197,850,Yes,AWD,Battery Electric Vehicle (BEV),Sedan,F,125000
+Tesla,Snohomish,Lake Stevens,Model 3 Long Range Performance,2017,3.4,261,435,70,167,910,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Sedan,D,61480
+Volkswagen,Kitsap,Silverdale,ID.4,2020,7.5,160,420,77,183,560,Yes,RWD,Battery Electric Vehicle (BEV),SUV,C,45000
+Volkswagen,King,Kirkland,ID.3 Pro,2018,9,160,350,58,166,490,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,C,33000
+Volvo,Kitsap,Kingston,XC40 P8 AWD Recharge,2016,4.9,180,375,75,200,470,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,C,60437
+BMW,King,Kirkland,i3 120 Ah,2019,7.3,150,235,37.9,161,270,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,B,38017
+Peugeot,Kitsap,Kingston,e-2008 SUV,2020,8.5,150,250,45,180,380,Yes,FWD,Battery Electric Vehicle (BEV),SUV,B,34361
+Audi,Thurston,Olympia,e-tron 50 quattro,2015,6.8,190,280,77,231,450,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,67358
+Kia,Yakima,Yakima,e-Niro 64 kWh,2021,7.8,167,370,64,173,350,Yes,FWD,Battery Electric Vehicle (BEV),SUV,C,38105
+Renault,King,Enumclaw,Zoe ZE50 R110,2019,11.4,135,315,52,165,230,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,B,31184
+Tesla,King,Seattle,Cybertruck Tri Motor,2015,3,210,750,200,267,710,Yes,AWD,Battery Electric Vehicle (BEV),Pickup,N,75000
+Mazda,King,Bellevue,MX-30,2023,9,150,180,30,178,240,Yes,FWD,Battery Electric Vehicle (BEV),SUV,C,32646
+Nissan,King,Seattle,Leaf e+,2011,7.3,157,325,56,172,390,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,C,37237
+Lexus,King,Auburn,UX 300e,2016,7.5,160,270,50,193,190,Yes,FWD,Battery Electric Vehicle (BEV),SUV,C,50000
+CUPRA,Yakima,Moxee,el-Born,2020,6.5,160,425,77,181,570,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,C,45000
+Renault,King,Seattle,Zoe ZE50 R135,2023,9.5,140,310,52,168,230,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,B,33133
+Mercedes,Yakima,Tieton,EQA,2022,5,200,350,66.5,171,440,Yes,AWD,Battery Electric Vehicle (BEV),SUV,C,45000
+Tesla,Kitsap,Silverdale,Model S Long Range,2013,3.8,250,515,90,184,560,Yes,AWD,Battery Electric Vehicle (BEV),Liftback,F,79990
+Hyundai,Kitsap,Port Orchard,Kona Electric 39 kWh,2023,9.9,155,255,39,154,210,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,B,33971
+Audi,King,Renton,e-tron Sportback 55 quattro,2019,5.7,200,380,86.5,228,610,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,81639
+Skoda,King,Bellevue,CITIGOe iV,2017,12.3,130,195,36.8,166,170,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,A,24534
+SEAT,King,Tukwila,Mii Electric,2023,12.3,130,195,32.3,166,170,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,A,20129
+Kia,King,Seatac,E -Soul 64 kWh,2019,7.9,167,365,64,175,340,Yes,FWD,Battery Electric Vehicle (BEV),SUV,B,36837
+Opel,Thurston,Tumwater,Ampera-e,2013,7.3,150,335,58,173,210,Yes,FWD,Battery Electric Vehicle (BEV),MPV,B,41906
+Porsche,Kitsap,Suquamish,Taycan 4S,2018,4,250,365,71,195,730,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Sedan,F,102945
+Lightyear,Yakima,Yakima,One,2022,10,150,575,60,104,540,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Liftback,F,149000
+Aiways,Island,Oak Harbor,U5,2017,9,150,335,63,188,350,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,C,36057
+Audi,Snohomish,Bothell,e-tron 55 quattro,2019,5.7,200,365,86.5,237,590,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,79445
+Tesla,King,Shoreline,Roadster,2023,2.1,410,970,200,206,920,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Cabrio,S,215000
+Opel,King,Shoreline,Mokka-e,2019,8.5,150,255,45,176,390,Yes,FWD,Battery Electric Vehicle (BEV),SUV,B,35000
+Skoda,Kitsap,Seabeck,Enyaq iV 80,2020,8.8,160,420,77,183,560,Yes,RWD,Battery Electric Vehicle (BEV),SUV,C,40000
+Tesla,King,Renton,Model X Long Range,2023,4.6,250,450,90,211,490,Yes,AWD,Battery Electric Vehicle (BEV),SUV,F,85990
+Honda,Island,Coupeville,e Advance,2018,8.3,145,170,28.5,168,190,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,B,35921
+DS,Snohomish,Monroe,3 Crossback E-Tense,2023,8.7,150,250,45,180,380,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,B,37422
+Renault,Kitsap,Silverdale,Twingo ZE,2016,12.6,135,130,21.3,164,0,No,RWD,Battery Electric Vehicle (BEV),Hatchback,A,24790
+Citroen,Kitsap,Bainbridge Island,e-C4,2014,9.7,150,250,45,180,380,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,C,40000
+Tesla,King,Shoreline,Model S Performance,2012,2.5,261,505,90,188,550,Yes,AWD,Battery Electric Vehicle (BEV),Liftback,F,96990
+Renault,Thurston,Yelm,Zoe ZE40 R110,2022,11.4,135,255,41,161,230,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,B,29234
+Tesla,King,Redmond,Model Y Long Range Performance,2020,3.7,241,410,72.5,177,900,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,65620
+Nissan,King,Kirkland,Ariya 87kWh,2017,7.6,160,440,87,198,520,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,C,50000
+Jaguar,Snohomish,Lake Stevens,I-Pace,2012,4.8,200,365,84.7,232,340,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,75351
+Ford,Thurston,Tumwater,Mustang Mach-E ER RWD,2020,7,180,450,88,200,430,Yes,RWD,Battery Electric Vehicle (BEV),SUV,D,54475
+Porsche,King,Kenmore,Taycan 4S Plus,2012,4,250,425,83.7,197,890,Yes,AWD,Battery Electric Vehicle (BEV),Sedan,F,109302
+Nissan,Thurston,Olympia,e-NV200 Evalia,2020,14,123,190,38,200,190,Yes,FWD,Battery Electric Vehicle (BEV),SPV,N,33246
+Tesla,Thurston,Olympia,Cybertruck Dual Motor,2020,5,190,460,120,261,710,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Pickup,N,55000
+Renault,King,Seattle,Kangoo Maxi ZE 33,2013,22.4,130,160,31,194,0,No,FWD,Battery Electric Vehicle (BEV),SPV,N,38000
+Ford,King,Tukwila,Mustang Mach-E ER AWD,2013,6,180,430,88,209,410,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,62900
+BMW,Snohomish,Stanwood,i3s 120 Ah,2013,6.9,160,230,37.9,165,260,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,B,41526
+Skoda,King,Kirkland,Enyaq iV 80X,2020,7,160,400,77,193,540,Yes,AWD,Battery Electric Vehicle (BEV),SUV,C,45000
+Porsche,King,Kirkland,Taycan Cross Turismo,2018,3.5,250,385,83.7,217,770,Yes,AWD,Battery Electric Vehicle (BEV),Station,F,150000
+Byton,Kitsap,Seabeck,M-Byte 95 kWh 4WD,2015,5.5,190,390,95,244,460,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,64000
+Sono,Kitsap,Poulsbo,Sion,2023,9,140,225,35,156,270,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,C,25500
+Kia,King,Seattle,e-Niro 39 kWh,2013,9.8,155,235,39,167,230,Yes,FWD,Battery Electric Vehicle (BEV),SUV,C,34400
+Audi,King,Renton,Q4 Sportback e-tron,2017,6.3,180,410,77,188,550,Yes,AWD,Battery Electric Vehicle (BEV),SUV,D,57500
+Smart,Kitsap,Poulsbo,EQ forfour,2023,12.7,130,95,16.7,176,0,No,RWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,A,22030
+Ford,Kitsap,Silverdale,Mustang Mach-E SR AWD,2017,6,180,340,88,206,360,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),SUV,D,54000
+Porsche,Kitsap,Bremerton,Taycan Turbo,2022,3.2,260,390,83.7,215,810,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Sedan,F,148301
+Volkswagen,King,Medina,ID.3 1st,2018,7.3,160,340,58,171,470,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,C,38987
+Tesla,Kitsap,Kingston,Model X Performance,2013,2.8,250,440,90,216,480,Yes,AWD,Battery Electric Vehicle (BEV),SUV,F,102990
+Smart,Thurston,Olympia,EQ fortwo coupe,2014,11.6,130,100,16.7,167,0,No,RWD,Battery Electric Vehicle (BEV),Hatchback,A,21387
+Ford,Kitsap,Kingston,Mustang Mach-E SR RWD,2019,6.6,180,360,88,194,380,Yes,RWD,Battery Electric Vehicle (BEV),SUV,D,46900
+Mercedes,King,Seattle,EQV 300 Long,2019,10,140,330,90,273,290,Yes,FWD,Battery Electric Vehicle (BEV),SPV,N,70631
+Fiat,King,Bellevue,500e Hatchback,2019,9,150,250,37.3,168,330,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,B,34900
+Tesla,King,Redmond,Cybertruck Single Motor,2018,7,180,390,100,256,740,Yes,RWD,Battery Electric Vehicle (BEV),Pickup,N,45000
+Audi,King,Bellevue,e- tron Sportback 50 quattro,2020,6.8,190,295,64.7,219,470,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,69551
+Skoda,Snohomish,Bothell,Enyaq iV vRS,2018,6.2,180,400,77,193,540,Yes,AWD,Battery Electric Vehicle (BEV),SUV,C,47500
+Skoda,Snohomish,Bothell,Enyaq iV 60,2021,9,160,320,58,181,440,Yes,RWD,Battery Electric Vehicle (BEV),SUV,C,37500
+Audi,Kitsap,Kingston,e-tron S 55 quattro,2014,4.5,210,320,86.5,270,510,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,93800
+Smart,Kitsap,Port Orchard,EQ fortwo cabrio,2017,11.9,130,95,16.7,176,0,No,RWD,Battery Electric Vehicle (BEV),Cabrio,A,24565
+Nissan,King,Kirkland,Ariya e-4ORCE 87kWh,2023,5.7,200,420,87,207,500,Yes,AWD,Battery Electric Vehicle (BEV),Hatchback,C,57500
+Fiat,Snohomish,Snohomish,500e Convertible,2022,9,150,250,23.8,168,330,Yes,FWD,Plug-in Hybrid Electric Vehicle (PHEV),Cabrio,B,37900
+Volkswagen,King,Kirkland,ID.3 Pro Performance,2020,7.3,160,340,58,171,470,Yes,RWD,Battery Electric Vehicle (BEV),Hatchback,C,35575
+Kia,Kitsap,Poulsbo,e-Soul 39 kWh,2018,9.9,157,230,39,170,220,Yes,FWD,Battery Electric Vehicle (BEV),SUV,B,33133
+Byton,Yakima,Toppenish,M-Byte 72 kWh 2WD,2012,7.5,190,325,72,222,420,Yes,RWD,Battery Electric Vehicle (BEV),SUV,E,53500
+Nissan,Snohomish,Lake Stevens,Ariya 63kWh,2020,7.5,160,330,63,191,440,Yes,FWD,Battery Electric Vehicle (BEV),Hatchback,C,45000
+Audi,King,Renton,e-tron S Sportback 55 quattro,2018,4.5,210,335,86.5,258,540,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,96050
+Nissan,King,Renton,Ariya e-4ORCE 63kWh,2021,5.9,200,325,63,194,440,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,50000
+Nissan,Kitsap,Bainbridge Island,Ariya e-4ORCE 87kWh Performance,2023,5.1,200,375,87,232,450,Yes,AWD,Plug-in Hybrid Electric Vehicle (PHEV),Hatchback,C,65000
+Byton,King,Seattle,M-Byte 95 kWh 2WD,2019,7.5,190,400,95,238,480,Yes,AWD,Battery Electric Vehicle (BEV),SUV,E,62000

@@ -7,5 +7,5 @@ Team Members
 [Vignesh.B- 2021PECCB160](https://github.com/VigneshVishal22)
 Udhayendhar S.M - 2021PECCB157
 Robert Jaya Solomon - 2021PECCB221
-Sri Vishnu - 2021PECCB150
+Srivishnu - 2021PECCB150
 Venkat Ramanan - 2021PECCB159
